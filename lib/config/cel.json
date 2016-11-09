@@ -1,31 +1,78 @@
 {
-    "strytell": {
-        "width": 96,
-        "height": 96,
-        "header": 10
-    },
-    "chest1": {
-        "width": 96,
-        "height": 96,
-        "header": 10
-    },
-    "chest2": {
-        "width": 96,
-        "height": 96,
-        "header": 10
-    },
-    "chest3": {
-        "width": 96,
-        "height": 96,
-        "header": 10
-    },
-    "objcurs": {
+	"golddrop": {
+		"width": 261,
+		"height": 136
+	},
+	"p8bulbs": {
+		"width": 88,
+		"height": 88
+	},
+	"p8but2": {
+		"width": 33,
+		"height": 32
+	},
+	"panel8bu": {
+		"width": 71,
+		"height": 19
+	},
+	"panel8": {
+		"width": 640,
+		"height": 144
+	},
+	"smaltext": {
+		"width": 13,
+		"height": 11
+	},
+	"spelicon": {
+		"width": 56,
+		"height": 56
+	},
+	"talkbutt": {
+		"width": 61,
+		"height": 16
+	},
+	"talkpanl": {
+		"width": 640,
+		"height": 144
+	},
+	"bigtgold": {
+		"width": 46,
+		"height": 45
+	},
+	"charbut": {
+        "width": {
+            "0": 95,
+            "1-": 41
+        },
+		"height": 22
+	},
+	"char": {
+		"width": 320,
+		"height": 352
+	},
+	"diabsmal": {
+		"width": 296,
+		"height": 100
+	},
+	"inv": {
+		"width": 320,
+		"height": 352
+	},
+	"inv_rog": {
+		"width": 320,
+		"height": 352
+	},
+	"inv_sor": {
+		"width": 320,
+		"height": 352
+	},
+	"objcurs": {
         "width": {
             "0": 33,
             "1-9": 32,
             "10": 23,
             "11-85": 28,
-            "86-": 56
+            "86-": 56,
         },
         "height": {
             "0": 29,
@@ -36,7 +83,1266 @@
             "67-85": 84,
             "86-110": 56,
             "111-": 84
-        },
-        "header": 10
-    }
+        }
+		"header": 10
+	},
+	"medtexts": {
+		"width": 22,
+		"height": 22
+	},
+	"optbar": {
+		"width": 287,
+		"height": 32
+	},
+	"option": {
+		"width": 27,
+		"height": 28
+	},
+	"pentspin": {
+		"width": 48,
+		"height": 48
+	},
+	"pentspn2": {
+		"width": 12,
+		"height": 12
+	},
+	"quest": {
+		"width": 320,
+		"height": 352
+	},
+	"spellbkb": {
+		"width": 76,
+		"height": 29
+	},
+	"spellbk": {
+		"width": 320,
+		"height": 352
+	},
+	"spelli2": {
+		"width": 37,
+		"height": 38
+	},
+	"square": {
+		"width": 64,
+		"height": 128,
+		"header": 10
+	},
+	"textbox2": {
+		"width": 271,
+		"height": 303
+	},
+	"textbox": {
+		"width": 591,
+		"height": 303
+	},
+	"textslid": {
+		"width": 12,
+		"height": 12
+	},
+	"cut2": {
+		"width": 640,
+		"height": 480
+	},
+	"cut3": {
+		"width": 640,
+		"height": 480
+	},
+	"cut4": {
+		"width": 640,
+		"height": 480
+	},
+	"cutgate": {
+		"width": 640,
+		"height": 480
+	},
+	"cutl1d": {
+		"width": 640,
+		"height": 480
+	},
+	"cutportl": {
+		"width": 640,
+		"height": 480
+	},
+	"cutportr": {
+		"width": 640,
+		"height": 480
+	},
+	"cutstart": {
+		"width": 640,
+		"height": 480
+	},
+	"cuttt": {
+		"width": 640,
+		"height": 480
+	},
+	"quotes": {
+		"width": 640,
+		"height": 480
+	},
+	"armor2": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"axe": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"axeflip": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"bldstn": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"bottle": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"bow": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"cleaver": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"crownf": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"duricons": {
+		"width": 32,
+		"height": 32
+	},
+	"fanvil": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbook": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbow": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbrain": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttlebb": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttlebl": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttlebr": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttleby": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttle": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttledb": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttledy": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttleor": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fbttlewh": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fear": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"feye": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fheart": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"flazstaf": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"fmush": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"food": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"fplatear": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"goldflip": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"helmut": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"innsign": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"larmor": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"mace": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"manaflip": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"mapz0000": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0001": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0002": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0003": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0004": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0005": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0006": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0007": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0008": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0009": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0010": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0011": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0012": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0013": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0014": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0015": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0016": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0017": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0018": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0019": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0020": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0021": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0022": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0023": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0024": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0025": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0026": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0027": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0028": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0029": {
+		"width": 640,
+		"height": 352
+	},
+	"mapz0030": {
+		"width": 640,
+		"height": 352
+	},
+	"mapzdoom": {
+		"width": 640,
+		"height": 352
+	},
+	"ring": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"rock": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"scroll": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"shield": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"staff": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"swrdflip": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"wand": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"wshield": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"l1": {
+		"width": 32,
+		"height": 32
+	},
+	"l1s": {
+		"width": 64,
+		"height": 160,
+		"header": 10
+	},
+	"l2": {
+		"width": 32,
+		"height": 32
+	},
+	"l2s": {
+		"width": 64,
+		"height": 160,
+		"header": 10
+	},
+	"l3": {
+		"width": 32,
+		"height": 32
+	},
+	"l4": {
+		"width": 32,
+		"height": 32
+	},
+	"town": {
+		"width": 32,
+		"height": 32
+	},
+	"towns": {
+		"width": 64,
+		"height": 224
+	},
+	"flamel10": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel11": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel12": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel13": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel14": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel15": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel16": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel1": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel2": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel3": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel4": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel5": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel6": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel7": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flamel8": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flamel9": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames10": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames11": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames12": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames13": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames14": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames15": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames16": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames1": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames2": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames3": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames4": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames5": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames6": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames7": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flames8": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flames9": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"flaml1": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml2": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml3": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml4": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml5": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml6": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml7": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flaml8": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams1": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams2": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams3": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams4": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams5": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams6": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams7": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flams8": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"mindmace": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"sentfr": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"sentout": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"sentup": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"acidpud": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"magball1": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball2": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball3": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball4": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball5": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball6": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball7": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magball8": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"magblos": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos1": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos2": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos3": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos4": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos5": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos6": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos7": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"rhinos8": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"flare": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"flarexp": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"lghning": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"unravw": {
+        "width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"altboy": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"angel": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"armstand": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"banner": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"barrel": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"barrelex": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"bcase": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"bkslbrnt": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"bkurns": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"bloodfnt": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"book1": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"book2": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"bshelf": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"burncros": {
+		"width": 160,
+		"height": 160,
+		"header": 10
+	},
+	"candlabr": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"candle2": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"candle": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"cauldren": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"chest1": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"chest2": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"chest3": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"cruxsk1": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"cruxsk2": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"cruxsk3": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"decap": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"dirtfall": {
+		"width": 96,
+		"height": 160,
+		"header": 10
+	},
+	"explod1": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"explod2": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"firewal1": {
+		"width": 160,
+		"height": 128,
+		"header": 10
+	},
+	"flame1": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"flame3": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"ghost": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"goatshrn": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"l1braz": {
+		"width": 64,
+		"height": 160,
+		"header": 10
+	},
+	"l1doors": {
+		"width": 64,
+		"height": 160,
+		"header": 10
+	},
+	"l2doors": {
+		"width": 64,
+		"height": 128,
+		"header": 10
+	},
+	"l3doors": {
+		"width": 64,
+		"height": 128,
+		"header": 10
+	},
+	"lever": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"lshrineg": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"lzstand": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"mcirl": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"mfountn": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"miniwatr": {
+		"width": 64,
+		"height": 128,
+		"header": 10
+	},
+	"mushptch": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"nude2": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"pedistl": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"pfountn": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"prsrplt1": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"rockstan": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"rshrineg": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"sarc": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"skulfire": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"skulpile": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"skulstik": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"switch2": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"switch3": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"switch4": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"tfountn": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"tnudem": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"tnudew": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"traphole": {
+		"width": 64,
+		"height": 144,
+		"header": 10
+	},
+	"tsoul": {
+		"width": 128,
+		"height": 96,
+		"header": 10
+	},
+	"vapor1": {
+		"width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"water": {
+		"width": 128,
+		"height": 160,
+		"header": 10
+	},
+	"waterjug": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"weapstnd": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"wtorch1": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"wtorch2": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"wtorch3": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"wtorch4": {
+		"width": 96,
+		"height": 128,
+		"header": 10
+	},
+	"cow": {
+        "width": 128,
+		"height": 128,
+		"header": 10
+	},
+	"deadguy": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"twndrunk": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"healer": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"priest8": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"smithn": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"smithw": {
+        "width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"strytell": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"pegkid1": {
+		"width": 96,
+		"height": 64,
+		"header": 10
+	},
+	"witch": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"wmnn": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"wmnw": {
+        "width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"twnfn": {
+		"width": 96,
+		"height": 96,
+		"header": 10
+	},
+	"twnfw": {
+        "width": 96,
+		"height": 96,
+		"header": 10
+	}
 }
