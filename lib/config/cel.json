@@ -1,0 +1,22 @@
+{
+    "strytell": {
+        "width": 96,
+        "height": 96,
+        "header": 10
+    },
+    "chest1": {
+        "width": 96,
+        "height": 96,
+        "header": 10
+    },
+    "chest2": {
+        "width": 96,
+        "height": 96,
+        "header": 10
+    },
+    "chest3": {
+        "width": 96,
+        "height": 96,
+        "header": 10
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "wlsat": {
+        "width": 128,
+        "height": 128
+    },
+    "phalla": {
+        "width": 128,
+        "height": 128
+    },
+    "phalld": {
+        "width": 128,
+        "height": 128
+    },
+    "phallh": {
+        "width": 128,
+        "height": 128
+    },
+    "phalln": {
+        "width": 128,
+        "height": 128
+    },
+    "phallw": {
+        "width": 128,
+        "height": 128
+    }
+}
